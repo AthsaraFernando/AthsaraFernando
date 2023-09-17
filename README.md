@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AthsaraFernando<br>🔭 I’m a Computer Science undergraduate<br>🌱 I’m currently learning Web development, Cyber security and AI<br>🧑‍💻I have worked with Python, Arduino, Html, CSS, SQL, JS<br>
+👋 Hi, I’m @AthsaraFernando<br>🔭 I’m a 1st year Computer Science undergraduate<br>🌱 I’m currently learning Web development, Cyber security and AI<br>🧑‍💻I have worked with Python, Arduino, Html, CSS, SQL, JS<br>
 
 
 ## 🌐 Socials:
