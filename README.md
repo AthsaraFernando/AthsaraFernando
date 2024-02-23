@@ -1,6 +1,10 @@
 # 💫 About Me:
 👋 Hi, I’m @AthsaraFernando<br>🔭 I’m currently working on LLM applications, my websites<br>🎓I’m a 1st year Computer Science undergraduate<br>🌱 I’m currently learning C, Neural Network.<br>🧑‍💻I have worked with Python, Arduino, Html, CSS, JS, LLMs (langchain, OpenAI API)
+###
 
+<img align="right" height="150" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
+
+###
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/profile.php?id=100078644259070) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/athsara_fernando) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/athsara-fernando) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/AthsaraF) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@athsarafernando) 
