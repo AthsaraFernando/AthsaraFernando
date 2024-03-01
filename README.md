@@ -1,5 +1,5 @@
 ###
-<!--
+
 <img align="right" height="150" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
 
 ###
@@ -26,7 +26,5 @@
 [![](https://visitcount.itsvg.in/api?id=AthsaraFernando&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/athsarafernand) 
--->
-  
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/athsarafernand)   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
